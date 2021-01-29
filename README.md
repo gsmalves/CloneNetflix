@@ -8,7 +8,9 @@ utilização de flexbox e como utilizar plugins  Jquery na aplicação em quest�
       <img src = "https://github.com/gsmalves/CloneNetflix/blob/master/gitImage/printTela.png" alt = "tela inicial" />
 </p>
 
+<p align = "center">
 <hr />
-- Desafio prático realizado na plataforma [ Digital Innovation One ] (https://web.digitalinnovation.one/home "Digital Innovation One") 
+- Desafio prático realizado na plataforma Digital Innovation One
 
 - Desenvolvido por Gustavo Alves
+</ p>

@@ -9,7 +9,7 @@ utilização de flexbox e como utilizar plugins  Jquery na aplicação em quest�
 </p>
 
 
-<h4 align = center> Desafio prático realizado na plataforma  Digital Innovatio One </h4>
+<h4 align = center> Desafio prático realizado no bootcamp React Web Developer  da plataforma  Digital Innovatio One </h4>
 
 <h4 align = center> Desenvolvido por Gustavo Alves </h4>
       

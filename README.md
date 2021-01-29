@@ -5,14 +5,10 @@ como estruturar um layout, estilizar através do CSS com containers e varíaveis
 utilização de flexbox e como utilizar plugins  Jquery na aplicação em questão.
 
 <p align = "center">
-      <img 
-          
-         alt = "Portfólio" 
-      />
- 
+      <img src = "https://github.com/gsmalves/CloneNetflix/blob/master/gitImage/printTela.png" alt = "tela inicial" />
 </p>
 
 <hr />
-
 - Desafio prático realizado na plataforma [ Digital Innovation One ] (https://web.digitalinnovation.one/home "Digital Innovation One") 
+
 - Desenvolvido por Gustavo Alves

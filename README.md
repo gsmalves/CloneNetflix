@@ -11,6 +11,6 @@ utilização de flexbox e como utilizar plugins  Jquery na aplicação em quest�
 
 <hr />
 - Desafio prático realizado na plataforma Digital Innovation One
-<hr />
-- Desenvolvido por Gustavo Alves   
+<h4 align = center> Desenvolvido por Gustavo Alves </h4>
+      
 
